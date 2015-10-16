@@ -1,0 +1,14 @@
+*/*/target
+.vlt
+*.swp
+*.swo
+*.sublime-*
+*.project
+*.iml
+*/.idea/*
+.idea/*
+buildNumber.properties
+.classpath
+.settings
+.DS_Store
+/bin/
